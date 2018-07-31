@@ -35,4 +35,15 @@
         width="400"
         height="73"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="15eb1676-f99d-4630-8bda-0b260729aeae"
+      name="Assar"
+      textAlignment="1">
+    <bounds
+        x="632"
+        y="46"
+        width="400"
+        height="140"/>
+  </children>
 </archimate:ArchimateDiagramModel>
